@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文网文写作"
+  short_description: "中国网文小说的选题、开篇、节奏、爽点、伏笔与连载写作方法"
+  default_prompt: "Use $chinese-webnovel-writing to outline, draft, revise, and debug a Chinese web novel with strong hooks, pacing, cliffhangers, and continuity control."
